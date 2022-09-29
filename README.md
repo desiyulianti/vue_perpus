@@ -1,2 +1,1 @@
 vue_perpus
-vue
